@@ -8,6 +8,7 @@ Assurance
 Body
 bugs
 Cascading
+CBOM
 Cheat
 Clickjacking
 Clobbering

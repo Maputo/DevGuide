@@ -43,6 +43,7 @@ CAPEC
 catch
 categorizarse
 CBC
+CBOM
 CD
 CFB
 ChartMuseum
