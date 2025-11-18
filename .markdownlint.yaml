@@ -13,5 +13,4 @@ MD013:
   line_length: 125
   stern: true
   strict: false
-  tables: true
-
+  tables: false
