@@ -167,7 +167,7 @@ DevOps و پایپ‌لاین‌ها با عواقب جدی در مقیاس بز
 [یک ایشو (مسئله) ثبت کنید][issue0402] یا [در گیت‌هاب ویرایش کنید][edit0402].
 
 [amass]: https://owasp.org/www-project-amass/
-[apisec]: https://owasp.org/API-Security
+[apisec]: https://owasp.org/API-Security/
 [asvs]: https://owasp.org/www-project-application-security-verification-standard/
 [champions]: https://owasp.org/www-project-security-champions-guidebook/
 [cscicd]: https://cheatsheetseries.owasp.org/cheatsheets/CI_CD_Security_Cheat_Sheet.html
@@ -182,7 +182,7 @@ DevOps و پایپ‌لاین‌ها با عواقب جدی در مقیاس بز
 [depcheck]: https://owasp.org/www-project-dependency-check/
 [deptrack]: https://dependencytrack.org/
 [devsecops]: https://owasp.org/www-project-devsecops-guideline/
-[defectdojo]: https://www.defectdojo.org/
+[defectdojo]: https://defectdojo.com/community
 [edit0402]: https://github.com/OWASP/DevGuide/blob/main/docs/en/02-foundations/02-secure-development.md
 [esapi-project]: https://owasp.org/www-project-enterprise-security-api/
 [github]: https://github.com/

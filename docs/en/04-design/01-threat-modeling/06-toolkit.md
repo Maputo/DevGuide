@@ -52,6 +52,6 @@ then [submit an issue][issue060106] or [edit on GitHub][edit060106].
 [edit060106]: https://github.com/OWASP/DevGuide/blob/main/docs/en/04-design/01-threat-modeling/06-toolkit.md
 [toolkit]: https://www.youtube.com/watch?v=KGy_KCRUGd4
 [tmpb]: https://owasp.org/www-project-threat-modeling-playbook/
-[tmproject]: https://owasp.org/www-project-threat-model/
+[tmproject]: https://owasp.org/www-project-threat-modeling/
 [TM]: https://owasp.org/www-community/Threat_Modeling
 [TMP]: https://owasp.org/www-community/Threat_Modeling_Process

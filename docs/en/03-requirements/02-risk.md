@@ -86,9 +86,9 @@ then [submit an issue][issue0502] or [edit on GitHub][edit0502].
 [cvss]: https://www.first.org/cvss/
 [edit0502]: https://github.com/OWASP/DevGuide/blob/main/docs/en/03-requirements/02-risk.md
 [issue0502]: https://github.com/OWASP/DevGuide/issues/new?labels=enhancement&template=request.md&title=Update:%2003-requirements/02-risk
-[nist]: https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final
+[nist]: https://csrc.nist.gov/pubs/sp/800/30/r1/final
 [rra]: https://infosec.mozilla.org/guidelines/risk/rapid_risk_assessment.html
 [rrm]: https://owasp.org/www-community/OWASP_Risk_Rating_Methodology
 [rrs]: https://infosec.mozilla.org/guidelines/assessing_security_risk
 [samm]: https://owaspsamm.org/about/
-[tra]: https://cyber.gc.ca/en/guidance/harmonized-tra-methodology-tra-1
+[tra]: https://www.cyber.gc.ca/en/tools-services/harmonized-tra-methodology

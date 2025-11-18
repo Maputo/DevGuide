@@ -47,6 +47,6 @@ La Guía del Desarrollador de OWASP es un esfuerzo comunitario; si hay algo que 
 [issue080203]: https://github.com/OWASP/DevGuide/issues/new?labels=content&template=request.md&title=Update:%2006-verification/02-tools/03-owtf
 [kali]: https://www.kali.org/
 [owtfinstall]: https://owtf.readthedocs.io/en/develop/installation/methods.html
-[owtfdocs]: https://owtf.readthedocs.io/
+[owtfdocs]: https://owtf.readthedocs.io/en/develop/
 [owtfdownload]: https://github.com/owtf/owtf/releases
 [owtf]: https://owasp.org/www-project-owtf/
