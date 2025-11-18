@@ -52,8 +52,8 @@ The [SAMM Assessment][samma] tools include spreadsheets and online tools such as
 The SAMM model describes these fundamentals of software security, which it calls Business Functions.
 Each of these five fundamentals are further split into three Business Practices:
 
-| Business Function       | Business Practices                 |                                        |        |
-| ----------------------- | ---------------------------------- | -------------------------------------- | ------ |
+| Business Function       | Business Practices                 |                                        |                                   |
+| ----------------------- | ---------------------------------- | -------------------------------------- | --------------------------------- |
 | [Governance][sammg]     | [Strategy and Metrics][sammgsm]    | [Policy and Compliance][sammgpc]       | [Education and Guidance][sammgeg] |
 | [Design][sammd]         | [Threat Assessment][sammdta]       | [Security Requirements][sammdsr]       | [Secure Architecture][sammdsa]    |
 | [Implementation][sammi] | [Secure Build][sammisb]            | [Secure Deployment][sammisd]           | [Defect Management][sammidm]      |

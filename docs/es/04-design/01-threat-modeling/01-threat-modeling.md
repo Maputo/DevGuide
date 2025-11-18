@@ -288,7 +288,7 @@ La Guía del Desarrollador de OWASP es un esfuerzo comunitario; si hay algo que 
 [stride]: https://en.wikipedia.org/wiki/STRIDE_%28security%29
 [tdtm]: https://owasp.org/www-project-threat-dragon/
 [tmpb]: https://owasp.org/www-project-threat-modeling-playbook/
-[tmproject]: https://owasp.org/www-project-threat-model/
+[tmproject]: https://owasp.org/www-project-threat-modeling/
 [tmmanifesto]: https://www.threatmodelingmanifesto.org/
 [TM]: https://owasp.org/www-community/Threat_Modeling
 [TMP]: https://owasp.org/www-community/Threat_Modeling_Process

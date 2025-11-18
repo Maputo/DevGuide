@@ -58,7 +58,7 @@ Traducción de versión [original en inglés][en070301].
 La Guía para Desarrolladores de OWASP es un esfuerzo comunitario;
 si hay algo que necesita cambiarse, [cree un issue][issue070301] o [edítelo en GitHub][edit070301].
 
-[bean]: http://beanvalidation.org/
+[bean]: https://beanvalidation.org/
 [csrfguard]: https://owasp.org/www-project-csrfguard/
 [cscsrf]: https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet
 [edit070301]: https://github.com/OWASP/DevGuide/blob/main/docs/es/05-implementation/03-secure-libraries/01-esapi.md
@@ -68,7 +68,7 @@ si hay algo que necesita cambiarse, [cree un issue][issue070301] o [edítelo en 
 [esapi-project]: https://owasp.org/www-project-enterprise-security-api/
 [esapi-question]: https://owasp.org/www-project-enterprise-security-api/#div-shouldiuseesapi
 [google-keyczar]: https://github.com/google/keyczar
-[google-tink]: https://github.com/google/tink
+[google-tink]: https://github.com/tink-crypto/tink
 [issue070301]: https://github.com/OWASP/DevGuide/issues/new?labels=content&template=request.md&title=Update:%2005-implementation/03-secure-libraries/01-esapi
 [java-encoder]: https://owasp.org/www-project-java-encoder
 [java-sanitizer]: https://owasp.org/www-project-java-html-sanitizer

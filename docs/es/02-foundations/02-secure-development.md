@@ -188,7 +188,7 @@ La Guía del Desarrollador de OWASP es un esfuerzo comunitario;
 si ve algo que necesita cambios, entonces [cree un issue][issue0402] o [edítelo en GitHub][edit0402].
 
 [amass]: https://owasp.org/www-project-amass/
-[apisec]: https://owasp.org/API-Security
+[apisec]: https://owasp.org/API-Security/
 [asvs]: https://owasp.org/www-project-application-security-verification-standard/
 [champions]: https://owasp.org/www-project-security-champions-guidebook/
 [cscicd]: https://cheatsheetseries.owasp.org/cheatsheets/CI_CD_Security_Cheat_Sheet
@@ -202,7 +202,7 @@ si ve algo que necesita cambios, entonces [cree un issue][issue0402] o [edítelo
 [depcheck]: https://owasp.org/www-project-dependency-check/
 [deptrack]: https://dependencytrack.org/
 [devsecops]: https://owasp.org/www-project-devsecops-guideline/
-[defectdojo]: https://www.defectdojo.org/
+[defectdojo]: https://defectdojo.com/community
 [edit0402]: https://github.com/OWASP/DevGuide/blob/main/docs/es/02-foundations/02-secure-development.md
 [esapi-project]: https://owasp.org/www-project-enterprise-security-api/
 [github]: https://github.com/
