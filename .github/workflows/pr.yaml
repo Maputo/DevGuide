@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v6.0.1
 
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2.7.0
@@ -34,10 +34,10 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v6.0.1
 
       - name: Lint markdown
-        uses: DavidAnson/markdownlint-cli2-action@v21.0.0
+        uses: DavidAnson/markdownlint-cli2-action@v22.0.0
         with:
           config: '.markdownlint.yaml'
           globs: |
@@ -50,10 +50,10 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v6.0.1
 
       - name: Spell check EN language
-        uses: rojopolis/spellcheck-github-actions@0.54.0
+        uses: rojopolis/spellcheck-github-actions@0.55.0
         with:
           config_path: .spellcheck-en.yaml
 
@@ -62,10 +62,10 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v6.0.1
 
       - name: Spell check ES language
-        uses: rojopolis/spellcheck-github-actions@0.54.0
+        uses: rojopolis/spellcheck-github-actions@0.55.0
         with:
           config_path: .spellcheck-es.yaml
 
@@ -74,12 +74,12 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v6.0.1
 
       # rojopolis/spellcheck-github-actions does not support PT-BR,
       # only PT, and PT-BR is too different to pass a PT spellcheck
       - name: Set up Python
-        uses: actions/setup-python@v6.0.0
+        uses: actions/setup-python@v6.1.0
         with:
           python-version: '3.10'
 
@@ -99,10 +99,10 @@ jobs:
     needs: [md_linter, spell_checker_en, spell_checker_es, spell_checker_pt-br]
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v6.0.1
 
       - name: Install python
-        uses: actions/setup-python@v6.0.0
+        uses: actions/setup-python@v6.1.0
         with:
           python-version: 3.x
 
@@ -129,10 +129,10 @@ jobs:
     needs: [build_check]
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v6.0.1
 
       - name: Install python
-        uses: actions/setup-python@v6.0.0
+        uses: actions/setup-python@v6.1.0
         with:
           python-version: 3.x
 
