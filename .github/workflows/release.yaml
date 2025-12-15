@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v6.0.1
 
       - name: Install python
-        uses: actions/setup-python@v6.0.0
+        uses: actions/setup-python@v6.1.0
         with:
           python-version: 3.x
 
@@ -45,7 +45,7 @@ jobs:
     needs: [export_pdf]
     steps:
       - name: Check out
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v6.0.1
 
       - name: Fetch prepared SBOM artifacts
         uses: actions/download-artifact@v6.0.0
@@ -59,7 +59,7 @@ jobs:
           sed -e s/x.x.x/${releaseVersion:1}/g .release-note-template.md > ./release-notes.txt
 
       - name: Create release notes
-        uses: softprops/action-gh-release@v2.4.1
+        uses: softprops/action-gh-release@v2.5.0
         with:
           draft: true
           name: "${releaseVersion:1}"

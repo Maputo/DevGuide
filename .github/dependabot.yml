@@ -1,9 +1,12 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions"
-    directory: ".github/workflows"
+    directory: "/"
     schedule:
       interval: "monthly"
+    cooldown:
+      default-days: 7
+      semver-major-days: 14
     groups:
       version-update:
         applies-to: version-updates
