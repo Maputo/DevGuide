@@ -4,6 +4,7 @@ Adoptium
 AES
 ai
 AJAX
+agentic
 algorítmicamente
 align
 amass

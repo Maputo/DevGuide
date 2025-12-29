@@ -13,4 +13,8 @@ assignees: ''
 **Context** :  
 Section: (eg '02-foundations/03-security-principles')
 
+**Declaration**:
+
+- [ ] Agentic or Generative AI has not been used in creating this issue
+
 <!-- Add below any other context or screenshots about the change request -->

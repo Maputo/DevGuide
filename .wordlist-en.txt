@@ -8,6 +8,7 @@ ARP
 ASVS
 AUTH
 Adoptium
+agentic
 Amauri
 Analyser
 Andra

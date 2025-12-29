@@ -15,8 +15,9 @@
 # allow github, workflows and templates
 !.github/
 !.github/*.yaml
-!.github/issue_template/
-!.github/issue_template/*.md
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/*.md
+!.github/ISSUE_TEMPLATE/*.yml
 !.github/workflows/
 !.github/workflows/*.yaml
 !.gitignore

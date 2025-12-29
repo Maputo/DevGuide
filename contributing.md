@@ -16,6 +16,9 @@ Feel free to discuss topics in the [project wiki][wiki] and create new discussio
 
 ### Ground rules
 
+When contributing:
+
+* Follow our restrictions on the [use of AI](#use-of-ai) for all issues, pull requests, comments and discussions
 * follow our [Code of Conduct](code_of_conduct.md)
 * ensure that all contributions are within the [license](license.txt)
 * although the use of generative AI is not prohibited, it _must_ be declared in the pull request
@@ -110,6 +113,19 @@ The pull requests have checks applied to them:
 1. Link checker for any broken links; if there is an imperative for a broken link then add it to `.lycheeignore`
 2. Markdown lint that ensures the markdown is consistent and valid
 3. Spell checker; new words that are not recognized should be added to `.wordlist.txt`
+
+### Use of AI
+
+The Developer Guide is a documentation project, and so the content must be accurate, knowledgeable and concise.
+
+Generative AI can produce content that is general and verbose;
+avoid using it for any issues, pull requests, comments and discussions.
+If it is genuinely helpful to use generative AI then it **must** be declared in any pull request or issue,
+failure to do so can result in the contribution being closed or even deleted.
+
+There is no need to use agentic AI to create issues or pull requests;
+templates for all issues and pull requests **must** be used.
+Failure to use the templates can result in the issue / pull request being closed or even deleted.
 
 ### Running web document locally
 
