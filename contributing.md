@@ -116,7 +116,7 @@ The pull requests have checks applied to them:
 
 ### Use of AI
 
-The Developer Guide is a documentation project, and so the content must be accurate, knowledgeable and concise.
+The Developer Guide is a documentation project, and so the content must be accurate, informative and concise.
 
 Generative AI can produce content that is general and verbose;
 avoid using it for any issues, pull requests, comments and discussions.

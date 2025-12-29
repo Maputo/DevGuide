@@ -8,13 +8,20 @@ assignees: ''
 ---
 
 **Describe what content should be added** :  
+
 <!-- Describe below what content should be added -->
 
 **Context** :  
+
 Section: (eg '02-foundations/03-security-principles')
 
-**Declaration**:
+**Declaration**:  
 
-- [ ] Agentic or Generative AI has not been used in creating this issue
+Please make sure you have:  
 
-<!-- Add below any other context or screenshots about this change request -->
+- [ ] read the [contribution guide](../contributing.md) and agree to the [Code of Conduct](../code_of_conduct.md)
+- [ ] not used agentic or generative AI in creating this issue
+
+**Context**:  
+
+<!-- Add below any other context or screenshots for this change request -->
