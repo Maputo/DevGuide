@@ -14,6 +14,8 @@ Contributors can [make suggestions][issues] and provide changes via a [pull requ
 
 Feel free to discuss topics in the [project wiki][wiki] and create new discussions.
 
+Note that you **must** follow the rules for any [use of AI](#use-of-ai).
+
 ### Ground rules
 
 When contributing:
@@ -114,18 +116,25 @@ The pull requests have checks applied to them:
 2. Markdown lint that ensures the markdown is consistent and valid
 3. Spell checker; new words that are not recognized should be added to `.wordlist.txt`
 
+Note that you **must** follow the rules for any [use of AI](#use-of-ai) in the pull request.
+
 ### Use of AI
 
-The Developer Guide is a documentation project, and so the content must be accurate, informative and concise.
+The Developer Guide is a documentation project and so the content must be accurate, informative and concise.
 
 Generative AI can produce content that is general and verbose;
 avoid using it for any issues, pull requests, comments and discussions.
+
 If it is genuinely helpful to use generative AI then it **must** be declared in any pull request or issue,
 failure to do so can result in the contribution being closed or even deleted.
 
 There is no need to use agentic AI to create issues or pull requests;
 templates for all issues and pull requests **must** be used.
 Failure to use the templates can result in the issue / pull request being closed or even deleted.
+
+Be mindful that the leaders and maintainers of the Developer Guide are volunteers with their own day jobs;
+we do this on our own time for the benefit of the open source community and OWASP in particular.
+AI slop drains maintainers' time and is actively harmful to this project.
 
 ### Running web document locally
 

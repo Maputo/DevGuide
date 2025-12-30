@@ -17,9 +17,9 @@ for inclusion in the change log
 
 Thanks for submitting a pull request, please make sure:  
 
-- [ ] content meets the [license](../license.txt) for this project
-- [ ] you have read the [contribution guide](../contributing.md) and agree to the [Code of Conduct](../code_of_conduct.md)
-- [ ] any use of AI has been declared in this pull request
+- [ ] content meets the [license](../blob/main/license.txt) for this project
+- [ ] you have read the [contribution guide](../blob/main/contributing.md) and agree to the [Code of Conduct](../blob/main/code_of_conduct.md)
+- [ ] any [use of AI](../blob/main/contributing.md#use-of-ai) has been declared in this pull request
 
 **Other info** :  
 
