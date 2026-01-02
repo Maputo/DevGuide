@@ -30,7 +30,8 @@ jobs:
             --max-retries 1
             --retry-wait-time 10
             --max-concurrency 2
-            '**/*.md'
+            'docs/**/*.md'
+            'docs/*.md'
             '*.md'
           fail: true
         env:
