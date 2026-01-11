@@ -145,9 +145,10 @@ Test the web document locally before creating / updating a pull request.
 On Windows install python and then install packages using pip :
 
 ```text
-python3 -m pip install mkdocs-open-in-new-tab
-python3 -m pip install mkdocs-material
 python3 -m pip install mkdocs
+python3 -m pip install mkdocs-material
+python3 -m pip install mkdocs-open-in-new-tab
+python3 -m pip install mkdocs-redirects
 python3 -m pip install mkdocs-with-pdf
 ```
 
@@ -182,6 +183,7 @@ On Linux or MacOS install the packages using python's pip :
 pip install mkdocs
 pip install mkdocs-material
 pip install mkdocs-open-in-new-tab
+pip install mkdocs-redirects
 pip install mkdocs-with-pdf
 ```
 

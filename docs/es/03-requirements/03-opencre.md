@@ -97,9 +97,9 @@ La Guía de Desarrollador OWASP es un esfuerzo comunitario; si hay algo que nece
 entonces [cree un issue][issue0503] o [edítelo en GitHub][edit0503].
 
 [asvs]: https://owasp.org/www-project-application-security-verification-standard/
-[capecocre]: https://opencre.org/search/CAPEC
-[csocre]: https://opencre.org/search/OWASP%20Cheat%20Sheets
-[cweocre]: https://opencre.org/search/CWE
+[capecocre]: https://www.opencre.org/search/CAPEC
+[csocre]: https://www.opencre.org/search/OWASP%20Cheat%20Sheets
+[cweocre]: https://www.opencre.org/search/CWE
 [cwe]: https://cwe.mitre.org/
 [cwe1002]: https://www.opencre.org/node/standard/CWE/sectionid/1002
 [edit0503]: https://github.com/OWASP/DevGuide/blob/main/docs/es/03-requirements/03-opencre.md
@@ -117,5 +117,5 @@ entonces [cree un issue][issue0503] o [edítelo en GitHub][edit0503].
 [sdlc]: https://owasp.org/www-project-integration-standards/writeups/owasp_in_sdlc/
 [spotlight28]: https://www.youtube.com/watch?v=TwNroVARmB0&list=PLUKo5k_oSrfOTl27gUmk2o-NBKvkTGw0T
 [top10ocre]: https://www.opencre.org/search/OWASP%20Top%2010
-[wstgocre]: https://opencre.org/search/WSTG
-[zapocre]: https://opencre.org/search/ZAP
+[wstgocre]: https://www.opencre.org/search/WSTG
+[zapocre]: https://www.opencre.org/search/ZAP

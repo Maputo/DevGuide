@@ -19,6 +19,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2.7.0
         with:
           args: >-
+            --exclude 'github\.com/OWASP/DevGuide/blob/main/docs'
             --no-progress
             --max-retries 1
             --retry-wait-time 10
@@ -113,6 +114,7 @@ jobs:
           pip install mkdocs
           pip install mkdocs-material 
           pip install mkdocs-open-in-new-tab
+          pip install mkdocs-redirects
           pip install mkdocs-with-pdf
 
       - name: Copy contributing tab files
@@ -143,6 +145,7 @@ jobs:
           pip install mkdocs
           pip install mkdocs-material 
           pip install mkdocs-open-in-new-tab
+          pip install mkdocs-redirects
           pip install mkdocs-with-pdf
 
       - name: Build pdf for EN
