@@ -45,6 +45,9 @@ markdown_extensions:
 plugins:
   - open-in-new-tab  
   - search
+  - redirects:
+      redirect_maps:
+        'en/04-design/02-web-app-checklist/01-define-security-requirements.md': 'en/04-design/02-web-app-checklist/01-secure-by-default.md'
 
 nav:
   - 'Developer Guide':

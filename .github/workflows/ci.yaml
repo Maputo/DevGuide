@@ -106,6 +106,7 @@ jobs:
           pip install mkdocs
           pip install mkdocs-material 
           pip install mkdocs-open-in-new-tab
+          pip install mkdocs-redirects
           pip install mkdocs-with-pdf
 
       - name: Copy contributing tab files
@@ -139,6 +140,7 @@ jobs:
           pip install mkdocs
           pip install mkdocs-material 
           pip install mkdocs-open-in-new-tab
+          pip install mkdocs-redirects
           pip install mkdocs-with-pdf
 
       - name: Build check
