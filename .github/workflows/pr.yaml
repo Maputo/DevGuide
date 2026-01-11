@@ -19,6 +19,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2.7.0
         with:
           args: >-
+            --exclude 'github\.com/OWASP/DevGuide/blob/main/docs'
             --no-progress
             --max-retries 1
             --retry-wait-time 10

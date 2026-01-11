@@ -1,8 +1,5 @@
 # ignore these false positives from the link checker housekeeper
 
-# some sites that are examples only, no intention of being real
-myfriend.site.com/
-
 # Lockheed Martin has trouble with SSL certificates, temporarily ignore
 www.lockheedmartin.com
 
@@ -14,7 +11,7 @@ github.com/OWASP/DevGuide/pulls
 github.com
 
 # ignore LINDDUN site because it occasionally times out
-www.linddun.org/
+linddun.org/
 
 # automated access to esapi is forbidden
 mvnrepository.com/artifact/org.owasp.esapi/esapi
@@ -36,6 +33,7 @@ owaspsamm.thinkific.com/courses/samm
 owaspblt.org
 
 # mainstream sites that are not worth checking
+helm.sh
 www.exploit-db.com/
 www.w3.org/
 www.w3schools.com/
@@ -47,6 +45,7 @@ www.oreilly.com
 www.cve.org
 www.kali.org
 www.iso.org
+www.opencre.org
 
 # don't irritate the US government
 nvd.nist.gov/
