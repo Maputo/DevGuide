@@ -244,7 +244,7 @@ then that is also a perfectly good choice.
 ----
 
 The OWASP Developer Guide is a community effort; if there is something that needs changing
-then [submit an issue][issue060101] or [edit on GitHub][edit060101].
+then [submit an issue][issue040107] or [edit on GitHub][edit040107].
 
 [4QFW]: https://github.com/adamshostack/4QuestionFrame
 [asacs]: https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet
@@ -255,8 +255,8 @@ then [submit an issue][issue060101] or [edit on GitHub][edit060101].
 [cstm]: https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet
 [culturetm]: https://owasp.org/www-project-security-culture/stable/6-Threat_Modelling/
 [eop]: https://shostack.org/games/elevation-of-privilege
-[edit060101]: https://github.com/OWASP/DevGuide/blob/main/docs/en/04-design/01-threat-modeling/01-threat-modeling.md
-[issue060101]: https://github.com/OWASP/DevGuide/issues/new?labels=enhancement&template=request.md&title=Update:%2004-design/01-threat-modeling/01-threat-modeling
+[edit040107]: https://github.com/OWASP/DevGuide/blob/main/docs/en/04-design/01-threat-modeling/07-practical-threat-modeling.md
+[issue040107]: https://github.com/OWASP/DevGuide/issues/new?labels=enhancement&template=request.md&title=Update:%2004-design/01-threat-modeling/07-practical-threat-modeling
 [linddun]: https://linddun.org/
 [nist-cvss]: https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
 [pasta]: https://versprite.com/blog/what-is-pasta-threat-modeling/
