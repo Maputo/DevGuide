@@ -104,6 +104,7 @@ GCM
 GCP
 GDPR
 GHSL
+GPT
 GRC
 GRPC
 Gasteratos
@@ -179,6 +180,7 @@ Matteo
 Microservices
 Misconfiguration
 MLSec
+Modelling
 ModSecurity
 Multifactor
 NIST
@@ -193,6 +195,7 @@ NoSQL
 Node.js
 NodeJS
 NuGets
+OATs
 OAuth
 OBOM
 ODF
@@ -301,6 +304,7 @@ TPS
 Tasklist
 Tesauro
 Threagile
+ThreatAtlas
 Tink
 ToC
 Trivy

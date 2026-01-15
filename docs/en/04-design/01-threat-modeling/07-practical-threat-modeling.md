@@ -223,7 +223,7 @@ then that is also a perfectly good choice.
 * OWASP [Threat Modeling Cheat Sheet][cstm]
 * OWASP [Threat Modeling Playbook (OTMP)][tmpb]
 * OWASP [Attack Surface Analysis Cheat Sheet][asacs]
-* OWASP community pages on [Threat Modeling][TM] and the [Threat Modeling Process][TMP]
+* OWASP community pages on [Threat Modeling][tmcommunity] and the [Threat Modeling Process][tmprocess]
 * [The Four Question Framework For Threat Modeling](https://youtu.be/Yt0PhyEdZXU) 60 second video
 * Lockheed's [Cyber Kill Chain][chains]
 * VerSprite's Process for Attack Simulation and Threat Analysis ([PASTA][pasta])
@@ -271,8 +271,8 @@ then [submit an issue][issue040107] or [edit on GitHub][edit040107].
 [tmpb]: https://owasp.org/www-project-threat-modeling-playbook/
 [tmproject]: https://owasp.org/www-project-threat-modeling/
 [tmmanifesto]: https://www.threatmodelingmanifesto.org/
-[TM]: https://owasp.org/www-community/Threat_Modeling
-[TMP]: https://owasp.org/www-community/Threat_Modeling_Process
+[tmcommunity]: https://owasp.org/www-community/Threat_Modeling
+[tmprocess]: https://owasp.org/www-community/Threat_Modeling_Process
 [TMdesigning]: https://shostack.org/books/threat-modeling-book
 [TMpractical]: https://threatmodeling.dev/
 [TMT]: https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
