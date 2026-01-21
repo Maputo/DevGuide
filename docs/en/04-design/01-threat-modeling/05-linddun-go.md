@@ -1,5 +1,4 @@
 LINNDUN GO is a card game used to help derive privacy requirements during the software development life cycle.
-The LINNDUN GO card set can be [downloaded][linddun-go-cards] as a PDF and then printed out.
 
 #### What is LINDDUN GO?
 
@@ -44,7 +43,7 @@ The advice from the LINDDUN GO 'getting started' instructions is that this team 
 
 The application should have already been described by an architecture diagram or data flow diagram
 so that the players have something to refer to during the game.
-[Download][linddun-go-cards] and printout the deck of cards.
+The LINNDUN GO card set can be [downloaded][linddun-go-cards] as a PDF and the deck of cards printed out.
 
 Follow the [set of rules][linddun-go-rules] to structure the game session, record the outcome and act on it.
 The outcome of the game is to identify possible privacy threats and propose remediations;
@@ -53,11 +52,11 @@ as well as having a good time of course.
 ----
 
 The OWASP Developer Guide is a community effort; if there is something that needs changing
-then [submit an issue][issue060105] or [edit on GitHub][edit060105].
+then [submit an issue][issue040105] or [edit on GitHub][edit040105].
 
 [cornucopia]: https://owasp.org/www-project-cornucopia/
-[edit060105]: https://github.com/OWASP/DevGuide/blob/main/docs/en/04-design/01-threat-modeling/05-linddun-go.md
-[issue060105]: https://github.com/OWASP/DevGuide/issues/new?labels=content&template=request.md&title=Update:%2004-design/01-threat-modeling/05-linddun-go
+[edit040105]: https://github.com/OWASP/DevGuide/blob/main/docs/en/04-design/01-threat-modeling/05-linddun-go.md
+[issue040105]: https://github.com/OWASP/DevGuide/issues/new?labels=content&template=request.md&title=Update:%2004-design/01-threat-modeling/05-linddun-go
 [linddun]: https://linddun.org/
 [linddun-go]: https://linddun.org/go/
 [linddun-go-cards]: https://downloads.linddun.org/linddun-go/default/latest/go.pdf

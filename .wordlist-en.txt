@@ -89,6 +89,7 @@ DotNet
 DrHEADer
 Dracon
 ECB
+ECMA
 EE
 ENISA
 ESAPI
@@ -104,6 +105,7 @@ GCM
 GCP
 GDPR
 GHSL
+GPT
 GRC
 GRPC
 Gasteratos
@@ -179,6 +181,7 @@ Matteo
 Microservices
 Misconfiguration
 MLSec
+Modelling
 ModSecurity
 Multifactor
 NIST
@@ -193,6 +196,7 @@ NoSQL
 Node.js
 NodeJS
 NuGets
+OATs
 OAuth
 OBOM
 ODF
@@ -295,12 +299,14 @@ Sydseter
 Symfony
 TCP
 TLS
+TMBOM
 TOCTOU
 TPM
 TPS
 Tasklist
 Tesauro
 Threagile
+ThreatAtlas
 Tink
 ToC
 Trivy
@@ -551,6 +557,7 @@ unforgeable
 unicode
 unkeyed
 unmanaged
+unremediated
 untrusted
 url
 userland

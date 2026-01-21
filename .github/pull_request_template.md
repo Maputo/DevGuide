@@ -1,9 +1,10 @@
 **Summary** :  
 
 <!--
-Provide a summary for the reviewers of this pull request, stating the section will help
-Please provide enough information so that others can review your pull request
-If this closes an existing issue then add "closes #xxxx", where xxxx is the issue number
+What existing issue does the pull request solve?
+Add "closes #xxxx", where xxxx is the issue number
+You must have been assigned the issue before submitting the pull request
+and provide enough information so that others can review your changes
 -->
 
 **Description for the changelog** :  
@@ -19,12 +20,16 @@ Thanks for submitting a pull request, please make sure:
 
 - [ ] content meets the [license](../blob/main/license.txt) for this project
 - [ ] you have read the [contribution guide](../blob/main/contributing.md) and agree to the [Code of Conduct](../blob/main/code_of_conduct.md)
-- [ ] any [use of AI](../blob/main/contributing.md#use-of-ai) has been declared in this pull request
+- [ ] *either* no AI-generated content has been used in this pull request
+- [ ] *or* any [use of AI](../blob/main/contributing.md#use-of-ai) in this pull request has been disclosed below:
+  - AI Tools: `[e.g. GitHub CoPilot, ChatGPT, JetBrains Junie, etc]`
+  - LLMs and versions: `[e.g. GPT-4.1, Claude Haiku 4.5, Gemini 2.5 Pro, etc]`
+  - Prompts: `[Summarize the key prompts or instructions given to the AI tools]`
 
 **Other info** :  
 
-<!-- Add here any other information that may be of help to the reviewer
-
+<!--
+Add here any other information that may be of help to the reviewer
 Automated tests are run to check links, markdown and spelling
 The pull request must pass these tests before it can be merged
 -->

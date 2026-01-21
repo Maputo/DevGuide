@@ -54,12 +54,13 @@ nav:
     - Overview: en/04-design/index.md
     - Threat modeling:
       - Overview: en/04-design/01-threat-modeling/index.md
-      - Threat modeling in practice: en/04-design/01-threat-modeling/01-threat-modeling.md
+      - Threat modeling: en/04-design/01-threat-modeling/01-threat-modeling-project.md
       - pytm: en/04-design/01-threat-modeling/02-pytm.md
       - Threat Dragon: en/04-design/01-threat-modeling/03-threat-dragon.md
       - Cornucopia: en/04-design/01-threat-modeling/04-cornucopia.md
       - LINDDUN GO: en/04-design/01-threat-modeling/05-linddun-go.md
-      - Threat Modeling toolkit: en/04-design/01-threat-modeling/06-toolkit.md
+      - Threat Model Library: en/04-design/01-threat-modeling/06-threat-model-library.md
+      - Threat modeling in practice: en/04-design/01-threat-modeling/07-practical-threat-modeling.md
     - Web application checklist:
       - Overview: en/04-design/02-web-app-checklist/index.md
       - Secure by Default: en/04-design/02-web-app-checklist/01-secure-by-default.md

@@ -59,12 +59,13 @@ nav:
     - Descripción: es/04-design/index.md
     - Modelado de amenazas:
       - Descripción: es/04-design/01-threat-modeling/index.md
-      - Modelado de amenazas en la práctica: es/04-design/01-threat-modeling/01-threat-modeling.md
+      - Threat modeling: en/04-design/01-threat-modeling/01-threat-modeling-project.md
       - pytm: es/04-design/01-threat-modeling/02-pytm.md
       - Threat Dragon: es/04-design/01-threat-modeling/03-threat-dragon.md
-      - Cornucopia: es/04-design/01-threat-modeling/04-cornucopia.md
-      - LINDDUN GO: es/04-design/01-threat-modeling/05-linddun-go.md
-      - Threat Modeling toolkit: es/04-design/01-threat-modeling/06-toolkit.md
+      - Cornucopia: en/04-design/01-threat-modeling/04-cornucopia.md
+      - LINDDUN GO: en/04-design/01-threat-modeling/05-linddun-go.md
+      - Threat Model Library: en/04-design/01-threat-modeling/06-threat-model-library.md
+      - Modelado de amenazas en la práctica: es/04-design/01-threat-modeling/01-threat-modeling.md
     - Lista de verificación para aplicaciones web:
       - Descripción: es/04-design/02-web-app-checklist/index.md
       - Definir Requisitos de Seguridad: es/04-design/02-web-app-checklist/01-define-security-requirements.md

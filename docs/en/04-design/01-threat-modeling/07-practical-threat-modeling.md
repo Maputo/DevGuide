@@ -223,7 +223,7 @@ then that is also a perfectly good choice.
 * OWASP [Threat Modeling Cheat Sheet][cstm]
 * OWASP [Threat Modeling Playbook (OTMP)][tmpb]
 * OWASP [Attack Surface Analysis Cheat Sheet][asacs]
-* OWASP community pages on [Threat Modeling][TM] and the [Threat Modeling Process][TMP]
+* OWASP community pages on [Threat Modeling][tmcommunity] and the [Threat Modeling Process][tmprocess]
 * [The Four Question Framework For Threat Modeling](https://youtu.be/Yt0PhyEdZXU) 60 second video
 * Lockheed's [Cyber Kill Chain][chains]
 * VerSprite's Process for Attack Simulation and Threat Analysis ([PASTA][pasta])
@@ -244,7 +244,7 @@ then that is also a perfectly good choice.
 ----
 
 The OWASP Developer Guide is a community effort; if there is something that needs changing
-then [submit an issue][issue060101] or [edit on GitHub][edit060101].
+then [submit an issue][issue040107] or [edit on GitHub][edit040107].
 
 [4QFW]: https://github.com/adamshostack/4QuestionFrame
 [asacs]: https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet
@@ -255,8 +255,8 @@ then [submit an issue][issue060101] or [edit on GitHub][edit060101].
 [cstm]: https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet
 [culturetm]: https://owasp.org/www-project-security-culture/stable/6-Threat_Modelling/
 [eop]: https://shostack.org/games/elevation-of-privilege
-[edit060101]: https://github.com/OWASP/DevGuide/blob/main/docs/en/04-design/01-threat-modeling/01-threat-modeling.md
-[issue060101]: https://github.com/OWASP/DevGuide/issues/new?labels=enhancement&template=request.md&title=Update:%2004-design/01-threat-modeling/01-threat-modeling
+[edit040107]: https://github.com/OWASP/DevGuide/blob/main/docs/en/04-design/01-threat-modeling/07-practical-threat-modeling.md
+[issue040107]: https://github.com/OWASP/DevGuide/issues/new?labels=enhancement&template=request.md&title=Update:%2004-design/01-threat-modeling/07-practical-threat-modeling
 [linddun]: https://linddun.org/
 [nist-cvss]: https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
 [pasta]: https://versprite.com/blog/what-is-pasta-threat-modeling/
@@ -271,8 +271,8 @@ then [submit an issue][issue060101] or [edit on GitHub][edit060101].
 [tmpb]: https://owasp.org/www-project-threat-modeling-playbook/
 [tmproject]: https://owasp.org/www-project-threat-modeling/
 [tmmanifesto]: https://www.threatmodelingmanifesto.org/
-[TM]: https://owasp.org/www-community/Threat_Modeling
-[TMP]: https://owasp.org/www-community/Threat_Modeling_Process
+[tmcommunity]: https://owasp.org/www-community/Threat_Modeling
+[tmprocess]: https://owasp.org/www-community/Threat_Modeling_Process
 [TMdesigning]: https://shostack.org/books/threat-modeling-book
 [TMpractical]: https://threatmodeling.dev/
 [TMT]: https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool

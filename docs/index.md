@@ -7,14 +7,7 @@ that works to improve the security of software.
 It is an open community dedicated to enabling organizations to
 conceive, develop, acquire, operate, and maintain applications that can be trusted.
 
-Along with the OWASP Top Ten, the Developer Guide is one of the original resources
-published soon after the OWASP foundation was formed in 2001.
-Version 1.0 of the Developer Guide was released in 2002
-and since then there have been various [releases][versions] culminating in version 2.0 in 2005.
-Since then the guide has been revised extensively to bring it up to date.
-The latest versions are 4.x because version 3.0 was never released.
-
-The purpose of this guide is to provide an introduction to security concepts
+The purpose of this Developer Guide is to provide an introduction to security concepts
 and a handy reference for application / system developers.
 Generally it describes security practices using the advice given in the
 OWASP Software Assurance Maturity Model ([SAMM][samm]) and describes the OWASP projects
@@ -23,7 +16,7 @@ referenced in the OWASP [Application Security Wayfinder][intstand] project.
 This guide does not seek to replicate the many excellent sources on specific security topics;
 it rarely tries to go into detail on a subject and instead provides links for greater depth on these security topics.
 Instead the content of the Developer Guide aims to be accessible, introducing  practical security concepts
-and providing enough detail to get developers started on various OWASP tools and documents.
+and providing just enough detail to get developers started on various OWASP tools and documents.
 
 All of the OWASP projects and tools described in this guide are free to download and use.
 All OWASP projects are open source; please do get involved if you are interested in improving application security.
@@ -31,8 +24,7 @@ All OWASP projects are open source; please do get involved if you are interested
 #### Audience
 
 Developers should use this OWASP Developer Guide to help write applications that are more secure.
-The guide has been written by the security community to help software developers write solid,
-safe and secure applications.
+The guide has been written by the security community to help software developers write solid, safe and secure applications.
 Most of the contributors to this guide are also software developers as well as security engineers,
 and this helps to keep the focus developer-centric.
 
@@ -54,6 +46,17 @@ the Application Security Wayfinder maps out the many tools,
 projects and documents within OWASP and the Developer Guide provides some 'wordy' context for this.
 
 [![AppSec Wayfinder](assets/images/owasp-wayfinder.png "OWASP Application Security Wayfinder")][intstand]
+
+#### A bit of history
+
+Along with the OWASP Top Ten, the Developer Guide is one of the original resources
+published soon after the OWASP foundation was formed in 2001.
+The latest 4.x versions of the guide have been revised extensively to bring it up to date.
+
+Version 1.0 of the Developer Guide was released in 2002
+under the title 'A Guide to Building Secure Web Applications and Web Services'.
+There were various subsequent [releases][versions] culminating in version 2.0 in 2005.
+After that there was an attempt to bring the Developer Guide to a version 3.0 but this was never released.
 
 ----
 
