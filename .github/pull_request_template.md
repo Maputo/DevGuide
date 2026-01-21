@@ -1,9 +1,10 @@
 **Summary** :  
 
 <!--
-Provide a summary for the reviewers of this pull request, stating the section will help
-Please provide enough information so that others can review your pull request
-If this closes an existing issue then add "closes #xxxx", where xxxx is the issue number
+What existing issue does the pull request solve?
+Add "closes #xxxx", where xxxx is the issue number
+You must have been assigned the issue before submitting the pull request
+and provide enough information so that others can review your changes
 -->
 
 **Description for the changelog** :  
@@ -27,8 +28,8 @@ Thanks for submitting a pull request, please make sure:
 
 **Other info** :  
 
-<!-- Add here any other information that may be of help to the reviewer
-
+<!--
+Add here any other information that may be of help to the reviewer
 Automated tests are run to check links, markdown and spelling
 The pull request must pass these tests before it can be merged
 -->

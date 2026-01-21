@@ -89,6 +89,7 @@ DotNet
 DrHEADer
 Dracon
 ECB
+ECMA
 EE
 ENISA
 ESAPI
@@ -298,6 +299,7 @@ Sydseter
 Symfony
 TCP
 TLS
+TMBOM
 TOCTOU
 TPM
 TPS
@@ -555,6 +557,7 @@ unforgeable
 unicode
 unkeyed
 unmanaged
+unremediated
 untrusted
 url
 userland

@@ -2,11 +2,12 @@
 
 OWASP [CycloneDX][cyclonedx] is a Bill of Materials (BOM) standard
 that provides supply chain capabilities for cyber risk reduction.
-This [project][cyclonedx-project] is one of the OWASP flagship projects.
+This [project][cyclonedx-project] is one of the OWASP flagship projects
+and is also an [ECMA][ecma] international standard ECMA-424.
 
 #### What is CycloneDX?
 
-CycloneDX is a widely used standard for various types of [Bills of Materials][cyclonedx-spec].
+CycloneDX is a widely used for various types of [Bills of Materials][cyclonedx-spec].
 Think of a Bill of Materials (BOM) as a list of the components in a deliverable;
 a real world example might be receiving a new mobile phone and the package contains:
 
@@ -20,14 +21,14 @@ In a similar way, CycloneDX provides software security risk reduction for an org
 by specifying what is in the (often third party) components that make up the deliverable product.
 The specification supports:
 
-* [Software Bill of Materials][cyclonedx-sbom] (SBOM)
+* [Software Bill of Materials][sbom] (SBOM)
 * [Cryptography Bill of Materials][cbom] (CBOM)
-* [Software-as-a-Service Bill of Materials][cyclonedx-saasbom] (SaaSBOM)
-* [Hardware Bill of Materials][cyclonedx-hbom] (HBOM)
-* [Machine-learning Bill of Materials][cyclonedx-mlbom] (ML-BOM)
-* [Manufacturing Bill of Materials][cyclonedx-mbom] (MBOM)
-* [Operations Bill of Materials][cyclonedx-obom] (OBOM)
-* [Bill of Vulnerabilities][cyclonedx-bov] (BOV)
+* [Software-as-a-Service Bill of Materials][saasbom] (SaaSBOM)
+* [Hardware Bill of Materials][hbom] (HBOM)
+* [Machine-learning Bill of Materials][mlbom] (ML-BOM)
+* [Manufacturing Bill of Materials][mbom] (MBOM)
+* [Operations Bill of Materials][obom] (OBOM)
+* [Bill of Vulnerabilities][bov] (BOV)
 * [Vulnerability Disclosure Reports][cyclonedx-vdr] (VDR)
 * [Vulnerability Exploitability eXchange][cyclonedx-vex] (VEX)
 * Common [Release Notes][cyclonedx-notes] format
@@ -69,26 +70,27 @@ and [various tools][cyclonedx-tools] can be chosen that are able to export the S
 ----
 
 The OWASP Developer Guide is a community effort; if there is something that needs changing
-then [submit an issue][issue070203] or [edit on GitHub][edit070203].
+then [submit an issue][issue050203] or [edit on GitHub][edit050203].
 
 [cbom]: https://cyclonedx.org/capabilities/cbom/
 [cschain]: https://cheatsheetseries.owasp.org/cheatsheets/Software_Supply_Chain_Security_Cheat_Sheet
 [csdisclose]: https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet
 [cyclonedx]: https://cyclonedx.org/
 [cyclonedx-bomlink]: https://cyclonedx.org/capabilities/bomlink/
-[cyclonedx-bov]: https://cyclonedx.org/capabilities/bov/
-[cyclonedx-hbom]: https://cyclonedx.org/capabilities/hbom/
-[cyclonedx-mbom]: https://cyclonedx.org/capabilities/mbom/
-[cyclonedx-mlbom]: https://cyclonedx.org/capabilities/mlbom/
 [cyclonedx-notes]: https://cyclonedx.org/capabilities/release-notes/
-[cyclonedx-obom]: https://cyclonedx.org/capabilities/obom/
 [cyclonedx-project]: https://owasp.org/www-project-cyclonedx/
-[cyclonedx-saasbom]: https://cyclonedx.org/capabilities/saasbom/
-[cyclonedx-sbom]: https://cyclonedx.org/capabilities/sbom/
 [cyclonedx-spec]: https://cyclonedx.org/specification/overview/
 [cyclonedx-tools]: https://cyclonedx.org/tool-center/
 [cyclonedx-vdr]: https://cyclonedx.org/capabilities/vdr/
 [cyclonedx-vex]: https://cyclonedx.org/capabilities/vex/
-[edit070203]: https://github.com/OWASP/DevGuide/blob/main/docs/en/05-implementation/02-dependencies/03-cyclonedx.md
-[issue070203]: https://github.com/OWASP/DevGuide/issues/new?labels=content&template=request.md&title=Update:%2005-implementation/02-dependencies/03-cyclonedx
+[bov]: https://cyclonedx.org/capabilities/bov/
+[hbom]: https://cyclonedx.org/capabilities/hbom/
+[mbom]: https://cyclonedx.org/capabilities/mbom/
+[mlbom]: https://cyclonedx.org/capabilities/mlbom/
+[obom]: https://cyclonedx.org/capabilities/obom/
+[saasbom]: https://cyclonedx.org/capabilities/saasbom/
+[sbom]: https://cyclonedx.org/capabilities/sbom/
+[ecma]: https://ecma-international.org/
+[edit050203]: https://github.com/OWASP/DevGuide/blob/main/docs/en/05-implementation/02-dependencies/03-cyclonedx.md
+[issue050203]: https://github.com/OWASP/DevGuide/issues/new?labels=content&template=request.md&title=Update:%2005-implementation/02-dependencies/03-cyclonedx
 [spotlight21]: https://youtu.be/qEG6cxwl8os

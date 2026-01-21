@@ -17,14 +17,14 @@ As of January 2026 the project is going through a change process that will bette
 
 #### Why refer to this project?
 
-The Threat Modeling project can be seen as an umbrella for the other threat modeling projects and resources.
+The [Threat Modeling][tmproject] project is an over-arching project for the other threat modeling projects and resources.
 
 It can be used as a landing page for all things threat modeling;
 the starting point for finding [resources and tools][tmpres] as well as the core concepts.
-For example there is an introduction to Shostack's [Four Question Framework][4QFW]
-that guides the user to the primary source if they need to know more.
+For example there is an introduction to Shostack's [Four Question Framework][4QFW],
+that then references the primary source if the user needs to know more.
 
-#### Other threat modeling projects
+#### OWASP threat modeling projects
 
 Threat modeling is a wide domain and OWASP provides many projects alongside the Threat Modeling project :
 
@@ -46,6 +46,7 @@ Threat modeling is a wide domain and OWASP provides many projects alongside the 
 - [Ontology Driven Threat Modeling Framework][odtmf]
 - [SAP Threat Modeling Builder][saptmb]
 - [Threat Model Library][tml]
+- [Threat Modeling][tmproject] project
 - [Threat Modeling Playbook][tmpb] (OTMP)
 - [Threat Modelling Guide][tmgproject]
 - [ThreatAtlas][threatatlas]
@@ -53,9 +54,8 @@ Threat modeling is a wide domain and OWASP provides many projects alongside the 
 
 These projects have been categorized by OWASP according to their importance and maturity.
 
-#### References
+#### Further reading
 
-- OWASP [Threat Modeling][tmproject] project
 - OWASP [Threat Modeling toolkit][toolkit]
 - OWASP [Threat Modeling Cheat Sheet][cstm]
 - OWASP [Attack Surface Analysis Cheat Sheet][asacs]

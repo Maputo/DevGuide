@@ -40,7 +40,7 @@ and then refer the developer to further reading for more in-depth treatment of t
 As a rule of thumb, if a section is more than two pages then it is probably too long;
 split the section up or refer to another more detailed project.
 
-#### Etiquette
+#### Contributor etiquette
 
 Github issues are used to coordinate contributions and keep track of progress towards each milestone:
 
@@ -49,6 +49,7 @@ Github issues are used to coordinate contributions and keep track of progress to
 * if the issue has already been assigned then coordinate with the existing owner
 * if there is not an existing issue that describes your content then [suggest one][issues]
 * provide your contributed content as a [pull request][request]
+* you **must** be assigned the issue before submitting a pull request
 
 ### Style Guide
 
